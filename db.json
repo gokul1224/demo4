@@ -28,7 +28,7 @@
       "MaterialType": "Electronics",
       "MaterialQuantities": 25,
       "MaterialLocation": "Box No.202",
-      "MaterialDatasheet": "https://www.infineon.com/dgdl/irfp4468pbf.pdf",
+      "MaterialDatasheet": "https://www.infineon.com/dgdl/Infineon-IRFP4468-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a40153562c73472019",
       "MaterialImages": [
         "https://example.com/images/irfp4468pbf_1.jpg",
         "https://example.com/images/irfp4468pbf_2.jpg"
