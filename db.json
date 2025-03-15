@@ -25,7 +25,7 @@
       },
       "MaterialID": "MID00002",
       "MaterialDescription": "200V N-channel MOSFET for power applications. More details: https://www.infineon.com/cms/en/product/power/mosfet/irfp4468pbf/",
-      "MaterialType": "Electronics",
+      "MaterialType": "https://www.infineon.com/cms/en/product/power/mosfet/n-channel/irfp4468/",
       "MaterialQuantities": 25,
       "MaterialLocation": "Box No.202",
       "MaterialDatasheet": "https://www.infineon.com/dgdl/Infineon-IRFP4468-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a40153562c73472019",
