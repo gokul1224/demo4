@@ -3,7 +3,7 @@
     {
       "MaterialTitle": {
         "Name": "32Bit Microcontroller",
-        "PartNumber": "STM32L552L",
+        "PN": "STM32L552L",
         "MF": "STMicro"
       },
       "MID": "MID00001",    
@@ -20,7 +20,7 @@
     },
     {
       "MaterialTitle": {
-        "Name": "MOSFET Transistor",
+        "Name": "POWER MOSFET (N-type)",
         "PN": "IRFP4468PBF",
         "MF": "Infineon"
       },
